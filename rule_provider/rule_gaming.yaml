@@ -428,7 +428,6 @@ payload:
   - DOMAIN-SUFFIX,awsglobalaccelerator.com
   - DOMAIN-KEYWORD,mgapex
   - DOMAIN-KEYWORD,devmgapex
-
 # > Konami
   - DOMAIN-SUFFIX,konami.net
   - DOMAIN-KEYWORD,konami
@@ -450,3 +449,10 @@ payload:
   - DOMAIN-KEYWORD,genshinimpact
   - DOMAIN-KEYWORD,honkaiimpact3
   - DOMAIN-KEYWORD,mihoyo
+# HONOROFKINGS
+  - PROCESS-NAME,com,honorofkings 
+  - DOMAIN-SUFFIX,honorofkings.com
+  - DOMAIN-SUFFIX,pre.honorofkings.com
+  - DOMAIN-SUFFIX,world.honorofkings.com
+  - DOMAIN-SUFFIX,wuji.honorofkings.com
+  - DOMAIN-SUFFIX,www.honorofkings.com
